@@ -1,0 +1,14 @@
+name:           Deluxe Meta Plugin Test
+version:        1.1.0
+id:             deluxemeta
+key:            deluxemeta
+author_name:    <__trans phrase="Jay Allen">
+description:    This plugin demonstrates the range and handling of plugin and project metadata. The repository containing this plugin also has several tags to emulate releases with modifications between them.
+l10n_lexicon:
+  es:           l10n_es.yaml
+  de:           l10n_de.yaml
+# l10n_lexicon:
+#     ja:
+#         Classic Website: ã‚¯ãƒ©ã‚·ãƒƒã‚¯ã‚¦ã‚§ãƒ–ã‚µã‚¤ãƒˆ
+#     de:
+#         Classic Website: Klassische Website

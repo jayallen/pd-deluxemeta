@@ -1,0 +1,14 @@
+repository_url:               http://github.com/jayallen/mt-plugin-deluxemeta
+project_type:                 plugin
+envelope:                     plugins/DeluxeMeta
+long_description:             '<p>This plugin demonstrates the range and handling of <strong>plugin and project metadata</strong>. The <a href="">repository</a> containing this plugin also has several tags to emulate releases with <i>modifications</i> between them.</p><p>Also, this long description should contain HTML formatting.</p>'
+plugin_feed_url:              http://github.com/jayallen/mt-plugin-deluxemeta/atom.xml
+version_compatibility_mt:     MT 4.x
+version_compatibility_melody: All
+git_dev_branch:               master
+feedback_url:                 http://endevver.com/contact
+support_url:                  http://help.endevver.com
+is_beta_version:              0
+# The following come from http://www.opensource.org/licenses/alphabetical
+license_url:                  http://www.opensource.org/licenses/Artistic-2.0
+license:                      Artistic License

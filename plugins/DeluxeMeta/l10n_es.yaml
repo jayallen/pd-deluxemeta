@@ -1,0 +1,5 @@
+Deluxe Meta Plugin Test: "Meta Deluxe Plugin de prueba"
+Jay Allen: "El Jefe"
+'This plugin demonstrates the range and handling of plugin and project metadata. The repository containing this plugin also has several tags to emulate releases with modifications between them.': "Este plugin muestra el rango y la manipulación de plugin y los metadatos del proyecto. El repositorio que contiene este plugin también tiene varias etiquetas para emular versiones con modificaciones entre ellas."
+All: "Todo"
+'<p>This plugin demonstrates the range and handling of <strong>plugin and project metadata</strong>. The <a href="">repository</a> containing this plugin also has several tags to emulate releases with <i>modifications</i> between them.</p><p>Also, this long description should contain HTML formatting.</p>': '<p>Este plugin muestra el rango y la manipulación de <strong>plugin y los metadatos del proyecto</strong>. El <a href="">repositorio</a> que contiene este plugin también tiene varias etiquetas para emular versiones con <i>modificaciones</i> entre ellas.</p><p>Además, esta descripción larga debe contener el formato HTML.</p>'

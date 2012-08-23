@@ -1,0 +1,5 @@
+Deluxe Meta Plugin Test: 'Deluxe Meta Plugin-Test'
+Jay Allen: 'Der Kommissar'
+'This plugin demonstrates the range and handling of plugin and project metadata. The repository containing this plugin also has several tags to emulate releases with modifications between them.': 'Dieses Plugin zeigt die Reichweite und die Handhabung der Plug-und Projekt-Metadaten. Das Repository enthält dieses Plugin hat auch mehrere Tags an Veröffentlichungen mit Änderungen zwischen ihnen nachzueifern.'
+All: 'Alle'
+'<p>This plugin demonstrates the range and handling of <strong>plugin and project metadata</strong>. The <a href="">repository</a> containing this plugin also has several tags to emulate releases with <i>modifications</i> between them.</p><p>Also, this long description should contain HTML formatting.</p>': '<p>Dieses Plugin zeigt die Reichweite und die Handhabung der <strong>Plug-und Projekt-Metadaten</strong>. Das <a href="">Repository</a> enthält dieses Plugin hat auch mehrere Tags an Veröffentlichungen mit <i>Änderungen</i> zwischen ihnen nachzueifern.</p><p>Auch sollte diese lange Beschreibung enthalten HTML-Formatierung.</p>'
